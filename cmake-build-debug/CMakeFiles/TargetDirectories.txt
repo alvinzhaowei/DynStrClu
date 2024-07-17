@@ -1,3 +1,0 @@
-C:/Users/alvin/Downloads/DynamicStrClu_ours/cmake-build-debug/CMakeFiles/DynamicStrClu_ours.dir
-C:/Users/alvin/Downloads/DynamicStrClu_ours/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/alvin/Downloads/DynamicStrClu_ours/cmake-build-debug/CMakeFiles/rebuild_cache.dir
