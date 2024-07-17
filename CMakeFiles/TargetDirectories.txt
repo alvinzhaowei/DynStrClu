@@ -1,0 +1,3 @@
+/mnt/c/Users/alvin/Downloads/DynamicStrClu_ours/CMakeFiles/DynamicStrClu_ours.dir
+/mnt/c/Users/alvin/Downloads/DynamicStrClu_ours/CMakeFiles/edit_cache.dir
+/mnt/c/Users/alvin/Downloads/DynamicStrClu_ours/CMakeFiles/rebuild_cache.dir
